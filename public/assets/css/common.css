@@ -1,0 +1,120 @@
+/** scale 변경 */
+body {
+	transform: scale(1);
+	transform-origin: 0 0;
+	overflow: hidden;
+	zoom: 75%;
+}
+.login > .wrap {
+	flex-wrap: wrap;
+}
+.logo-wrap {
+	display: flex;
+	width: 500px;
+}
+.logo-wrap>.logo-image {
+	width: 82px !important;
+	height: 31px;
+	margin: 0 0 40px 0;
+	background: url("../images/logo_b.png") top left no-repeat;
+	background-size: cover;
+}
+
+.logo-wrap>.logo-text {
+	width: 235px;
+	height: 31px;
+	margin: 0 auto 40px auto;
+	background: url("../images/logo_b.png") top left no-repeat;
+	background-size: cover;
+	background-position: -82px 0 !important;
+}
+.soul-logo {
+	width: 60px;
+	height: 37px;
+	margin: 0 0 40px 0;
+	background: url(../images/soul_logo.png) top right no-repeat;
+	background-size: cover;
+}
+
+.btn-open-legend { width: 45px; height: 45px; padding: 0; background-color: #1a427c; border-radius: 50px; box-sizing: border-box; color: #fff; display: flex; align-items: center; justify-content: center; position: absolute; bottom: 15px;  transform: translateX(20px) !important }
+.legend-2 { padding: 15px; background-color: #fff; box-shadow: rgba(0,0,0,.2) 5px 5px 10px; display: none; flex-direction: column; position: absolute; bottom: 15px; transform: translateX(20px) !important; transition-duration: 250ms;}
+
+/* 모니터링 balloon 크기조절 20231130 */
+.balloon { padding: 4px 4px 2px 4px !important; }
+/* 모니터링 상세통계 0레벨 색 20231128*/
+.balloon.lv-0 { background-color: rgba(184, 184, 184, 0.8); }
+/* 건물연령정보 툴팁 스타일 */
+.oldage-tooltip {
+	background-color: rgb(255, 255, 255);
+	padding: 8px 22px 4px;
+	border: 1px solid rgb(217, 217, 217);
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+.oldage-tooltip:before {
+	margin-left: -14px;
+	content: "";
+	border-top: 18px solid #fff;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	display: inline-block;
+	position: absolute;
+	left: 63%;
+	bottom: -10px;
+}
+
+/* Tree 라이브러리 CSS After 삭제*/
+.input-wrapper:after {
+	content: "" !important;
+}
+
+.etl-card-image {
+	width: 50px;
+	height: 50px;
+}
+.etl-card-image:before {
+	width: 50px;
+	height: 50px;
+	margin-bottom: 15px;
+	content: '';
+	background: url("../images/btn_icon.png") no-repeat 0 0;
+	display: inline-block;
+}
+.etl-card-image.success:before {
+	background-position: 0 -76px;
+}
+.etl-card-image.info:before {
+	background-position: -55px -76px;
+}
+.etl-card-image.save:before {
+	background-position: -110px -76px;
+}
+.etl-card-image.danger:before {
+	background-position: -165px -76px;
+}
+
+.etl-refresh-btn:before{
+	width: 26px;
+	height: 26px;
+	content: '';
+	background: url("../images/refresh.png") no-repeat 0 0;
+	background-size: 25px 25px;
+	display: inline-block;
+}
+
+.etl-refresh-btn:hover {
+	cursor: pointer;
+}
+
+.upload-icon {
+	width: 48px;
+	height: 48px;
+	content: '';
+	margin: 70px auto 20px auto;
+	background: url("../images/excel_upload.png") no-repeat 0 0;
+	background-size: 48px 48px;
+}
+
+.map-marker-cursor {
+  cursor: url('../images/pin-marker.png') 15 21, auto;
+}

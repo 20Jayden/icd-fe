@@ -1,0 +1,391 @@
+[
+	{
+		"colorCngId" : "colorList1",
+		"mainColor" : "#c2000b",
+		"colors" : [
+			"#fdc049"
+			,"#f0a83c"
+			,"#e78232"
+			,"#de5d23"
+			,"#d33d1c"
+			,"#c91d0f"
+			,"#c2000b"
+		]
+	},
+	{
+		"colorCngId" : "colorList2",
+		"mainColor" : "#3e4859",
+		"colors" : [
+			"#d9dbdf"
+			,"#b7bbc2"
+			,"#8f959f"
+			,"#6e7582"
+			,"#555e6e"
+			,"#3e4859"
+			,"#283242"
+		]
+	}, {
+		"colorCngId" : "colorList3",
+		"mainColor" : "#4355b4",
+		"colors" : [
+			"#c4ddf7"
+			,"#98bbea"
+			,"#6a94d9"
+			,"#5371ca"
+			,"#4355b4"
+			,"#354090"
+			,"#252b66"
+		]
+	},
+	{
+		"colorCngId" : "colorList4",
+		"mainColor" : "#2c6963",
+		"colors" : [
+			"#bbe2e7"
+			,"#86c5c8"
+			,"#49a2a3"
+			,"#35837f"
+			,"#2c6963"
+			,"#25504d"
+			,"#1b3637"
+		]
+	},
+	{
+		"colorCngId" : "colorList5",
+		"mainColor" : "#346e21",
+		"colors" : [
+			"#d0e4b9"
+			,"#9ec685"
+			,"#5aa354"
+			,"#408630"
+			,"#346e21"
+			,"#2b531c"
+			,"#1e3817"
+		]
+	},
+	{
+		"colorCngId" : "colorList6",
+		"mainColor" : "#586016",
+		"colors" : [
+			"#e5e0a1"
+			,"#c3bf6b"
+			,"#91983e"
+			,"#6f7921"
+			,"#586016"
+			,"#444813"
+			,"#2f3110"
+		]
+	},
+	{
+		"colorCngId" : "colorList7",
+		"mainColor" : "#95491e",
+		"colors" : [
+			"#f2d9b0"
+			,"#e0b27d"
+			,"#cc864e"
+			,"#b2642e"
+			,"#95491e"
+			,"#713719"
+			,"#4d2613"
+		]
+	},
+	{
+		"colorCngId" : "colorList8",
+		"mainColor" : "#bd0e0f",
+		"colors" : [
+			"#f9d3d3"
+			,"#eaa6a6"
+			,"#e56d6d"
+			,"#d93c3e"
+			,"#bd0e0f"
+			,"#930705"
+			,"#680605"
+		]
+	},
+	{
+		"colorCngId" : "colorList9",
+		"mainColor" : "#9b3d92",
+		"colors" : [
+			"#ecd3f0"
+			,"#d8aadd"
+			,"#cc7dc5"
+			,"#b758af"
+			,"#9b3d92"
+			,"#752e6e"
+			,"#511f49"
+		]
+	},
+	{
+		"colorCngId" : "colorList10",
+		"mainColor" : "#a54229",
+		"colors" : [
+			"#f4d6c0"
+			,"#e5ad90"
+			,"#d88061"
+			,"#c25d3e"
+			,"#a54229"
+			,"#7f3220"
+			,"#582217"
+		]
+	},
+	{
+		"colorCngId" : "colorList11",
+		"mainColor" : "#6f5716",
+		"colors" : [
+			"#ecdea0"
+			,"#d1ba6b"
+			,"#ac913f"
+			,"#8b7122"
+			,"#6f5716"
+			,"#554113"
+			,"#3a2d10"
+		]
+	},
+	{
+		"colorCngId" : "colorList12",
+		"mainColor" : "#948682",
+		"colors" : [
+			"#e4e0df"
+			,"#c9c2c0"
+			,"#bab1ae"
+			,"#a99d9a"
+			,"#948682"
+			,"#7a6863"
+			,"#493d39"
+		]
+	},
+	{
+		"colorCngId" : "colorList13",
+		"mainColor" : "#d26c4a",
+		"colors" : [
+			"#f4dcd3"
+			,"#eab9a9"
+			,"#e3a48f"
+			,"#dc8c71"
+			,"#d26c4a"
+			,"#c33d10"
+			,"#772104"
+		]
+	},
+	{
+		"colorCngId" : "colorList14",
+		"mainColor" : "#ad8305",
+		"colors" : [
+			"#ede0b9"
+			,"#dcc273"
+			,"#d2af49"
+			,"#c59a18"
+			,"#ad8305"
+			,"#886704"
+			,"#503d02"
+		]
+	},
+	{
+		"colorCngId" : "colorList15",
+		"mainColor" : "#719505",
+		"colors" : [
+			"#d7e8a4"
+			,"#aed146"
+			,"#94c20b"
+			,"#83ae05"
+			,"#719505"
+			,"#597604"
+			,"#344502"
+		]
+	},
+	{
+		"colorCngId" : "colorList16",
+		"mainColor" : "#059c76",
+		"colors" : [
+			"#b3ecde"
+			,"#61d8ba"
+			,"#28c9a1"
+			,"#06b589"
+			,"#059c76"
+			,"#047b5d"
+			,"#024937"
+		]
+	},
+	{
+		"colorCngId" : "colorList17",
+		"mainColor" : "#0a94c2",
+		"colors" : [
+			"#c6e6f1"
+			,"#8dcde3"
+			,"#6bbeda"
+			,"#41acd0"
+			,"#0a94c2"
+			,"#05759a"
+			,"#03455b"
+		]
+	},
+	{
+		"colorCngId" : "colorList18",
+		"mainColor" : "#6986da",
+		"colors" : [
+			"#d9e0f6"
+			,"#b5c3ed"
+			,"#a0b2e7"
+			,"#879ee1"
+			,"#6986da"
+			,"#4165d0"
+			,"#052fab"
+		]
+	},
+	{
+		"colorCngId" : "colorList19",
+		"mainColor" : "#9279de",
+		"colors" : [
+			"#e4ddf7"
+			,"#c9bdef"
+			,"#baaaea"
+			,"#a894e4"
+			,"#9279de"
+			,"#7555d5"
+			,"#69048b"
+		]
+	},
+	{
+		"colorCngId" : "colorList20",
+		"mainColor" : "#d65ab7",
+		"colors" : [
+			"#f5d8ee"
+			,"#ecb2dd"
+			,"#e69bd3"
+			,"#df7fc7"
+			,"#d65ab7"
+			,"#c6199a"
+			,"#7a045c"
+		]
+	},
+	{
+		"colorCngId" : "colorList21",
+		"mainColor" : "#d86380",
+		"colors" : [
+			"#f6dae1"
+			,"#edb5c3"
+			,"#e79fb1"
+			,"#e1859c"
+			,"#d86380"
+			,"#ca2c53"
+			,"#830424"
+		]
+	},
+	{
+		"colorCngId" : "colorList22",
+		"mainColor" : "#d00403",
+		"colors" : [
+			"#ebc6c7"
+			,"#ee7b7a"
+			,"#f52627"
+			,"#d00403"
+			,"#810b03"
+			,"#5d0b0c"
+			,"#2a0a09"
+		]
+	},
+	{
+		"colorCngId" : "colorList23",
+		"mainColor" : "#c9d805",
+		"colors" : [
+			"#eaedc2"
+			,"#e9ed79"
+			,"#e9f52b"
+			,"#c9d805"
+			,"#858108"
+			,"#5a5d06"
+			,"#27280a"
+		]
+	},
+	{
+		"colorCngId" : "colorList24",
+		"mainColor" : "#01d600",
+		"colors" : [
+			"#c5edc9"
+			,"#7eed77"
+			,"#2bf52e"
+			,"#01d600"
+			,"#098401"
+			,"#0c5e0b"
+			,"#09280c"
+		]
+	},
+	{
+		"colorCngId" : "colorList25",
+		"mainColor" : "#06d5cb",
+		"colors" : [
+			"#c7ece8"
+			,"#7bede9"
+			,"#28f5ec"
+			,"#06d5cb"
+			,"#088681"
+			,"#0b5d5a"
+			,"#072929"
+		]
+	},
+	{
+		"colorCngId" : "colorList26",
+		"mainColor" : "#026ed0",
+		"colors" : [
+			"#c5dbec"
+			,"#7cb7eb"
+			,"#2d94f0"
+			,"#026ed0"
+			,"#054985"
+			,"#0b365b"
+			,"#091b29"
+		]
+	},
+	{
+		"colorCngId" : "colorList27",
+		"mainColor" : "#0101d6",
+		"colors" : [
+			"#c7c6ec"
+			,"#7c7dee"
+			,"#322af3"
+			,"#0101d6"
+			,"#080885"
+			,"#0b0b5d"
+			,"#0a0b28"
+		]
+	},
+	{
+		"colorCngId" : "colorList28",
+		"mainColor" : "#6d03d7",
+		"colors" : [
+			"#d6c6e9"
+			,"#b37ef1"
+			,"#912bf5"
+			,"#6d03d7"
+			,"#430986"
+			,"#320c5e"
+			,"#190b28"
+		]
+	},
+	{
+		"colorCngId" : "colorList29",
+		"mainColor" : "#da00ce",
+		"colors" : [
+			"#ecc5eb"
+			,"#ed7ce9"
+			,"#f32beb"
+			,"#da00ce"
+			,"#820a7d"
+			,"#5c0b5a"
+			,"#290a27"
+		]
+	},
+	{
+		"colorCngId" : "colorList30",
+		"mainColor" : "#d0066d",
+		"colors" : [
+			"#eac6da"
+			,"#ed7db0"
+			,"#f42d91"
+			,"#d0066d"
+			,"#8a0543"
+			,"#580d34"
+			,"#290a1c"
+		]
+	}
+]

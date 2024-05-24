@@ -1,0 +1,19 @@
+{
+  // This file is required for VSCode to understand webpack aliases
+  "compilerOptions": {
+		// "module": "es2015",
+		// "moduleResolution": "node",
+		// "target": "es5",
+		// "sourceMap": true,
+		// "allowJs": true,
+    // This must be specified if "paths" is set
+    "baseUrl": ".",
+    // Relative to "baseUrl"
+    "paths": {
+      "@/*": ["./src/*"],
+    }
+  },
+	"include": [
+		"./src/**/*"
+	]
+}

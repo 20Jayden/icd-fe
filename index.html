@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=yes">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="keyword" content="지형지물 자동 인식 및 변화정보 판독 시스템">
+    <meta name="description" content="지형지물 자동 인식 및 변화정보 판독 시스템">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="지형지물 자동 인식 및 변화정보 판독 시스템">
+    <!-- <meta property="og:image" content="assets/images/url_thum.png"> -->
+    <meta property="og:url" content="http://localhost:3000/">
+    <meta property="og:description" content="지형지물 자동 인식 및 변화정보 판독 시스템">
+    <title>지형지물 자동 인식 및 변화정보 판독 시스템</title>
+
+    <!-- <link rel="shortcut icon" href="/assets/images/favicon.ico"> -->
+		<link rel="stylesheet" type="text/css" href="/assets/css/common.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/base.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/layout.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+		<link rel="stylesheet" type="text/css" href="/libs/wg/wg.css">
+		<link rel="stylesheet" type="text/css" href="/libs/wg/wg-ext.css">
+
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/slimscroll.min.js"></script>
+
+		<script src="/libs/proj4/proj4-src.js"></script>
+		<script src="/libs/wg/result.min.js"></script>
+		<!-- <script src="/libs/wg/wg.js"></script>
+		<script src="/libs/wg/wg-ext.js"></script> -->
+		<script src="/libs/fileSaver/FileSaver.min.js"></script>
+		<!-- <script src="/libs/radial-menu/RadialMenu.js"></script>
+		<script src="/libs/shp/shp2geojson-Org.js"></script>
+		<script src="/libs/shp/JS2Shapefile-Org.js"></script>
+		<script src="/libs/shp/jszip.js"></script> -->
+</head>
+
+<body>
+	<div id="app"></div>
+	<script type="module" src="/src/main.js"></script>
+	<script>
+		// FIXME: base.js는 퍼블리싱 이벤트 핸들러. 각 컴포넌트에 등록 필요.
+		// setTimeout(() => {
+		// 	var resource = document.createElement('script');
+		// 	resource.async = "true";
+		// 	resource.src = "/assets/js/base.js";
+		// 	var script = document.getElementsByTagName('script')[0];
+		// 	script.parentNode.insertBefore(resource, script);
+		// }, 500);
+	</script>
+</body>
+</html>
